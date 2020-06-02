@@ -1,0 +1,34 @@
+@media only screen and (max-width: 600px) {
+    .header-text-rx{
+        margin: 0;
+        padding-top: 10px !important;
+    }
+
+    .text-10{
+        font-size: 1.2rem !important;
+    }
+
+    .text-8{
+        font-size: 1rem !important;
+    }
+
+    .image-div-rx {
+        width: 200px;
+        height: 200px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 50%;
+        padding-top: 15px;
+        margin: auto;
+    }
+    .mb-5, .my-5 {
+        margin-bottom: 1rem!important;
+    }
+
+    .pb-5, .py-5 {
+        padding-bottom: 1rem!important;
+    }
+    font-size-18{
+        font-size: 13px;
+    }
+  }
